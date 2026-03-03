@@ -2,8 +2,7 @@
 
 <h1 align="center">LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving</h1>
 
-[![arXiv](https://img.shields.io/badge/X)](xxx)
-[![LaST-VLA Data](https://img.shields.io/badge/huggingface-LaST-VLA-orange?logo=huggingface&logoColor=white)](xxx)
+<a href="[https://arxiv.org](https://arxiv.org/pdf/2603.01928)/"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
 
 </div>
 
@@ -30,6 +29,14 @@ While Vision-Language-Action (VLA) models have revolutionized autonomous driving
     <p><strong>Qualitative visualization comparing the Textual CoT baseline (Red) and LaST-VLA (Green).</strong> <strong>(a) Drivable Area Compliance (DAC):</strong> Our method maintains precise lane adherence, whereas the baseline violates spatial boundaries. <strong>(b) Time-to-Collision (TTC):</strong> Our method accurately anticipates dynamics to avoid rear-end collisions, while the baseline fails to brake effectively.</p>
   </div>
 </div>
+
+## Currently Supported Features
+
+- [ ] LaST-VLA Inference Code
+- [ ] LaST-VLA Checkpoint
+- [ ] LaST-VLA Training Code
+- [ ] Training Dataset
+
 
 ## Acknowledgements
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving</h1>
 
-<a href="[https://arxiv.org](https://arxiv.org/pdf/2603.01928)/"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2603.01928"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
 
 </div>
 
@@ -47,9 +47,9 @@ We borrowed code from [NAVSIM](https://github.com/autonomousvision/navsim), [ms-
 If you find LaST-VLA useful in your research or application, please cite using this BibTex:
 
 ```bibtex
-@article{lastvla2025,
+@article{luo2026last,
   title={LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving},
-  author={X},
-  journal={X},
+  author={Luo, Yuechen and Li, Fang and Xu, Shaoqing and Ji, Yang and Zhang, Zehan and Wang, Bing and Shen, Yuannan and Cui, Jianwei and Chen, Long and Chen, Guang and others},
+  journal={arXiv preprint arXiv:2603.01928},
   year={2026}
 }

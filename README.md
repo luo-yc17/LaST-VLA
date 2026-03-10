@@ -1,6 +1,12 @@
 <div align="center">
 
 <h1 align="center">LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving</h1>
+Yuechen Luo<sup>1\*</sup>, Fang Li<sup>2\*</sup>, Shaoqing Xu<sup>2\*,‡</sup>, Yang Ji<sup>2</sup>, Zehan Zhang<sup>2</sup>, Bing Wang<sup>2</sup>, Yuannan Shen<sup>2</sup>, Jianwei Cui<sup>2</sup>, Long Chen<sup>2</sup>, Guang Chen<sup>2</sup>, Hangjun Ye<sup>2</sup>, Zhi-xin Yang<sup>3</sup>, Fuxi Wen<sup>1</sup>
+
+<sup>1,2</sup> Tsinghua University, <sup>2</sup> Xiaomi EV, <sup>3</sup> University of Macau
+
+(\*) Equal contribution. (‡) Project leader.
+
 
 <a href="https://arxiv.org/abs/2603.01928v1"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
 

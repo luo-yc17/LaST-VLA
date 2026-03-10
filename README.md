@@ -2,7 +2,7 @@
 
 <h1 align="center">LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving</h1>
 
-<a href="https://arxiv.org/abs/2603.01928"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2603.01928v1"><img src='https://img.shields.io/badge/arXiv-LaST-VLA-red' alt='Paper PDF'></a>
 
 </div>
 
